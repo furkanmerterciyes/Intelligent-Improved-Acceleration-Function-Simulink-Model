@@ -46,11 +46,6 @@ The simulation generates the following outputs:
 1. Velocity profile over time.
 2. Acceleration demand profile over time.
 
-## Results
-Graphs showcasing the velocity and acceleration demands are stored in the `results` folder as `.pdf` files. Example screenshots are provided below:
-- Velocity Profile
-- Acceleration Demand
-
 ## Notes
 - Ensure all units are consistent with the MKS (meter-kilogram-second) system.
   
